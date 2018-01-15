@@ -6,6 +6,7 @@ import { BrowserRouter, NavLink } from 'react-router-dom';
 import Promise from 'redux-promise';
 
 import './index.css';
+import './assets/css/bootstrap.min.css';
 
 import reducers from './reducers';
 
