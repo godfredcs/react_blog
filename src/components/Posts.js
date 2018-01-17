@@ -19,8 +19,6 @@ class Posts extends Component {
                 <div className="text-xs-right">
                     <Link to="/posts/new" className="btn btn-primary">Create Post</Link> 
                 </div>
-                
-                <p>Lists of posts</p>
 
             </div>
         );
